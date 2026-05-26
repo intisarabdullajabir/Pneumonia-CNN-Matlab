@@ -25,13 +25,13 @@ A Convolutional Neural Network (CNN) project built in MATLAB for classifying che
 ##  Output Example
  Input: Chest X-ray image  
  Prediction: **Pneumonia (or Normal)**  
- Confidence level 
+ Confidence level display
 
 ---
 
 ##  Tech Stack
  MATLAB  
- CNN (Deep Learning)  
+ CNN (Deep Learning)  Toolbox
  Image Processing Toolbox  
 
 ---
