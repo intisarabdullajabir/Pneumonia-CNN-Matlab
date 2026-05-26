@@ -31,7 +31,7 @@ A Convolutional Neural Network (CNN) project built in MATLAB for classifying che
 
 ##  Tech Stack
  MATLAB  
- CNN (Deep Learning)  Toolbox
+ CNN (Deep Learning)  
  Image Processing Toolbox  
 
 ---
